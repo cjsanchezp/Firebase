@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "530970636769",
+    "firebase_url": "https://miproyectov24-default-rtdb.firebaseio.com",
+    "project_id": "miproyectov24",
+    "storage_bucket": "miproyectov24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530970636769:android:92c7d1026d5f4e32d2a2a0",
+        "android_client_info": {
+          "package_name": "com.crisape.mifirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ0-2OiFVxkYSn8mOsIJUdDP5tjgDuOD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
